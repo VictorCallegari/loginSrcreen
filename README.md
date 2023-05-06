@@ -8,7 +8,7 @@ https://loginchallenge-3333c.web.app/
 
 ### Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCallegari&repo=loginScreen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCallegari&repo=loginSrcreen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Langs
 
